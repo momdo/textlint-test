@@ -1,0 +1,14 @@
+{
+    "rules": {
+        "common-misspellings": true,
+        "preset-japanese": false,
+        "preset-jtf-style": false,
+        "ja-no-space-between-full-width": true,
+        "ja-space-between-half-and-full-width": {
+            "space": "always"
+        }
+    },
+    "plugins": [
+        "html"
+    ]
+}
